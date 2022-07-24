@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/daily-simple-question/static/css/main.bd62c179.css",
+    "main.js": "/daily-simple-question/static/js/main.5a00eb05.js",
+    "index.html": "/daily-simple-question/index.html",
+    "main.bd62c179.css.map": "/daily-simple-question/static/css/main.bd62c179.css.map",
+    "main.5a00eb05.js.map": "/daily-simple-question/static/js/main.5a00eb05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd62c179.css",
+    "static/js/main.5a00eb05.js"
+  ]
+}
