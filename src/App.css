@@ -1,0 +1,33 @@
+.container {
+  padding:20px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 500;
+  height:100vh;
+}
+
+button{
+  margin-left:10px;
+  background-color:#fff3e1;
+  border-radius: 10px;;
+  border:0px;
+  box-shadow: 2px 3px 6px 4px #eaeaea;
+  cursor:pointer;
+}
+
+.font-s{
+  font-size: 16px;
+}
+
+.font-m{
+  font-size:24px;
+}
+
+.font-l{
+  font-size:36px;
+}
+
+.font-xl{
+  font-size:48px;
+}
